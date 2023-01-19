@@ -1,2 +1,2 @@
 # Readers-and-Writers-problem-main
-Using multithreading in java
+Using multi-threading in java
